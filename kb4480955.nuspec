@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>kb4480955</id>
+        <version>1.0</version>
+        <packageSourceUrl>http://www.catalog.update.microsoft.com/Search.aspx?q=KB4480955</packageSourceUrl>
+        <owners>Zak Forsyth</owners>
+        <title>KB4480955</title>
+        <authors>Microsoft</authors>
+        <projectUrl>https://support.microsoft.com/en-us/help/4480955/windows-7-update-kb4480955</projectUrl>
+        <iconUrl>https://assets.onestore.ms/cdnfiles/onestorerolling-1509-17011/shell/v1_2/images/logo/microsoft.png</iconUrl>
+        <licenseUrl>http://go.microsoft.com/fwlink/?LinkID=206977</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>microsoft windows update kb4480955 admin</tags>
+        <summary>2019-01 Preview of Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems</summary>
+        <description>
+2019-01 Preview of Monthly Quality Rollup for Windows Server 2008 R2 for x64-based Systems
+        </description>
+        <releaseNotes>
+This non-security update includes improvements and fixes that were a part of KB4480970 (released January 8, 2019) and also includes these new quality improvements as a preview of the next Monthly Rollup update:
+        </releaseNotes>
+        <dependencies>
+            <dependency id="chocolatey-windowsupdate.extension" version="1.0.3" />
+        </dependencies>
+    </metadata>
+</package>
