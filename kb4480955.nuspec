@@ -3,7 +3,7 @@
     <metadata>
         <id>kb4480955</id>
         <version>1.0</version>
-        <packageSourceUrl>http://www.catalog.update.microsoft.com/Search.aspx?q=KB4480955</packageSourceUrl>
+        <packageSourceUrl>https://github.com/zak-forsyth/kb4480955</packageSourceUrl>
         <owners>Zak Forsyth</owners>
         <title>KB4480955</title>
         <authors>Microsoft</authors>
